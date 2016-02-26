@@ -1,6 +1,6 @@
 # HIT_Postgraduate_2nd_Round
 
-I start to prepare HIT_Postgraduate_Exam_2nd_Round.
+I start to prepare for the 2nd_Round of HIT_Postgraduate_Examination.
 
 Here're some execises and solutions related.
 
