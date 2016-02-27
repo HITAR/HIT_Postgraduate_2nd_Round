@@ -1,4 +1,7 @@
-# HIT_Postgraduate_2nd_Round
-I start to prepare HIT_Postgraduate_Exam_2nd_Round.
+HIT_Postgraduate_2nd_Round
+
+I start to prepare for the 2nd_Round of HIT_Postgraduate_Examination.
+
 Here're some execises and solutions related.
-The book I use is <The C Programing Language> edited by Xiaohong Su, Yuying Wang, Zhigang Sun.
+
+The book I use is edited by Xiaohong Su, Yuying Wang, Zhigang Sun.
