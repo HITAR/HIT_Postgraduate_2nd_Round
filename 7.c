@@ -3,6 +3,10 @@
 
 using namespace std;
 
+/** Great Common Divisor
+ *  solution: Euclid algorithm
+ */
+
 int gcd(int &a,int &b)
 {
 	int res = a % b ;
