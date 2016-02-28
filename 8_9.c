@@ -34,17 +34,7 @@ void bubblesort(int a[],int n)
     }
 }
 
-void insertsort(int a[],int n)
-{
-    for(int i=1;i<n;i++)
-    {
-        int j = 0;
-        for(j=i-1;j>=0;j--)
-            if(a[i]<a[j])
-                a[j+1] = a[j];
-        a[j] = a[i];
-    }
-}
+
 
 int median(int a[],int n)
 {
