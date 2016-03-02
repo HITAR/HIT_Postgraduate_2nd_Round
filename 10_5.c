@@ -12,7 +12,7 @@ void DeleteAlphaFromWord_v1(char *s,char c)
     *ptr2 = '\0';
 }
 
-void DeleteAlphaFromWord_v2(char *s,char c)
+void DeleteAlphaFromWord_v2(char s[],char c)
 {
    int i,j;
    for(i=0,j=0;s[j]!='\0';j++)

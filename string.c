@@ -18,6 +18,15 @@ int MyStrlen(char *s)
 	return i;
 }
 
+void ar_strcat(char dst[],char src[])
+{
+	int len = strlen(dst);
+	int i;
+	for(i=0;src[i]!='\0';i++)
+		dst[len+i] = src[i];
+    dst[len+i] = '\0';
+}
+
 char* MyStrcat(char *dst,char *src)
 {
 	char *ptr = dst; // store the head address
